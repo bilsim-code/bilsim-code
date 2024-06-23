@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bilsim-code!!
 - 👀 I’m interested in web development and cyber security
-- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me ...bildadsimiyu6@gmail.com
 
